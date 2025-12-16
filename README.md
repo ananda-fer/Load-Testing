@@ -40,8 +40,9 @@ chmod +x load-tester.py
 ### Quick Start
 python load-tester.py
 
+#
 
-If you find this tool useful, please:
+## If you find this tool useful, please:
 ⭐ Support
 - ⭐ Star the repository
 - 🐛 Report issues
