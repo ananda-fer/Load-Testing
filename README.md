@@ -8,10 +8,8 @@ Python-based load testing tool specifically designed for Termux (Android). Test 
 
 ## 📋 Features
 
-- **Auto-Clear Display**: Clean terminal interface with real-time updates
 - **Multi-threading**: Simulate multiple concurrent users
 - **Real-time Metrics**: Live progress bar and performance stats
-- **No File Storage**: All data stays in memory (no JSON files saved)
 - **Customizable**: Adjust concurrent users, duration, and request rate
 - **Ethical Use**: Designed only for testing YOUR OWN websites
 
