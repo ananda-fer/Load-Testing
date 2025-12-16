@@ -16,7 +16,6 @@ Python-based load testing tool specifically designed for Termux (Android). Test 
 - **Ethical Use**: Designed only for testing YOUR OWN websites
 
 ## 🛠️ Installation
-
 ### Prerequisites
 - Termux (Android)
 - Python 3.8+
@@ -34,6 +33,7 @@ pip install requests
 
 ## Clone repository
 git clone https://github.com/ananda-fer/Load-Testing.git
+
 cd Load-Testing
 
 ## Make script executable
