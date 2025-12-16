@@ -35,14 +35,13 @@ git clone https://github.com/ananda-fer/Load-Testing.git
 cd Load-Testing
 
 ### Make script executable
-chmod +x load-test.py
+chmod +x load-tester.py
 
 ### Quick Start
-python load-test.py
-
-If you find this tool useful, please:
+python load-tester.py
 
 
+#If you find this tool useful, please:
 ## ⭐ Support
 - ⭐ Star the repository
 - 🐛 Report issues
