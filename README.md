@@ -39,3 +39,12 @@ chmod +x load-test.py
 
 ### Quick Start
 python load-test.py
+
+If you find this tool useful, please:
+
+
+## ⭐ Support
+- ⭐ Star the repository
+- 🐛 Report issues
+- 🔄 Share with others
+- 💡 Suggest improvements
