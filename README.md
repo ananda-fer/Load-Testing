@@ -21,23 +21,23 @@ Python-based load testing tool specifically designed for Termux (Android). Test 
 - Python 3.8+
 - Internet connection
 
-# Setup in Termux
-## Update packages
+## Setup in Termux
+### Update packages
 pkg update && pkg upgrade
 
-## Install Python
+### Install Python
 pkg install python -y
 
-## Install required packages
+### Install required packages
 pip install requests
 
-## Clone repository
+### Clone repository
 git clone https://github.com/ananda-fer/Load-Testing.git
 
 cd Load-Testing
 
-## Make script executable
+### Make script executable
 chmod +x load-test.py
 
-## Quick Start
+### Quick Start
 python load-test.py
