@@ -1,5 +1,5 @@
-# 🚀 Load Testing Tool for Termux
-
+<h1 align="center"> 🚀 Load Testing Tool for Termux </h1>
+ 
 Python-based load testing tool specifically designed for Termux (Android). Test your own websites' capacity and performance.
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -47,3 +47,4 @@ python load-tester.py
 - 🐛 Report issues
 - 🔄 Share with others
 - 💡 Suggest improvements
+#
