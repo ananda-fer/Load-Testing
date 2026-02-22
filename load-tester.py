@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-load_test_clear.py - Load Testing dengan Auto Clear Display
-"""
 
 import os
 import sys
@@ -11,7 +8,6 @@ import concurrent.futures
 from datetime import datetime
 
 def clear_screen():
-    """Clear terminal screen untuk Termux"""
     os.system('clear' if os.name == 'posix' else 'cls')
 
 class ClearLoadTester:
@@ -28,11 +24,11 @@ class ClearLoadTester:
         }
     
     def show_header(self):
-        """Tampilkan header aplikasi"""
         print("""
 ╔══════════════════════════════════════╗
-║      🚀 LOAD TESTING TOOL           ║
-║      Dengan Auto-Clear Display      ║
+║                                      ║
+║       🚀 LOAD TESTING TOOL           ║
+║                                      ║
 ╚══════════════════════════════════════╝
 """)
     
